@@ -1,2 +1,0 @@
-# The Ultimate Python Course
-
