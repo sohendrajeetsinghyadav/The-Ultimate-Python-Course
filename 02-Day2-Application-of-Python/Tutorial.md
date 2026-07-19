@@ -1,5 +1,7 @@
 # Day 2 - Application of Python
-Welcome to Day 2 of 100 days of code.Today we saw amazing python programs.
+Welcome to Day 2 of 100 days of code.
+
+Today we saw amazing python programs.
 They were....
 1. Jarvis Virtual Assistent
 2. Love Calculator
