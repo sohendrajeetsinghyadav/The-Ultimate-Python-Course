@@ -26,5 +26,3 @@ print(df) # This will display first few rows from the words.csv file
 ```
 
 Similarly we can install other modules and look into their documentations for usage instructions.\
-We will find ourselved doing this often in the later part of this course.
-
